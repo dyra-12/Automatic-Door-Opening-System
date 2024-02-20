@@ -56,9 +56,4 @@ Explore our simulations on Tinkercad:
 
 Our heartfelt thanks to Dr. Rajiv Dey for his invaluable guidance and mentorship throughout the development of the Automatic Door Opening System.
 
-## Contact Us
 
-For inquiries, collaboration opportunities, or further information, please feel free to reach out to:
-Email: [nikhilgodavarthi9@gmail.com](mailto:nikhilgodavarthi9@gmail.com)
-
-Thank you for exploring our transformative project towards modernizing access control systems!
